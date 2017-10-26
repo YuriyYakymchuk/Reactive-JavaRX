@@ -1,2 +1,3 @@
 # Reactive-JavaRX
-Pat project to try reactive programming in practice
+Pet project to try reactive programming in practice
+
